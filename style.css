@@ -211,6 +211,8 @@ nav.scrolled span {
 
 .my-photo img {
     border-radius: 10px;
+    height: 300px;
+    width: 300px;
 }
 
 
